@@ -2,9 +2,9 @@
 Installing redmine without docker, in the normal way on Debian8 netinst version, as an XLC or virtualhost.
 
 
-# adduser suporte
+# adduser support
 # apt-get install sudo
-# sudo adduser suporte sudo
+# sudo adduser support sudo
 
 $ sudo aptitude install mysql-server mysql-client libmysqlclient-dev gcc build-essential zlib1g zlib1g-dev zlibc ruby-zip libssl-dev libyaml-dev libcurl4-openssl-dev ruby gem libapache2-mod-passenger apache2-mpm-prefork apache2-dev libapr1-dev libxslt1-dev checkinstall libxml2-dev ruby-dev vim libmagickwand-dev imagemagick
 
